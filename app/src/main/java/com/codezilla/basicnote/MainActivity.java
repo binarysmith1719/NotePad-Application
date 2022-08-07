@@ -75,7 +75,7 @@ public int count;
 
     }
 
-
+    //onclick the below function will be invoked
     public void AddClicked(View view)
     {
         String st= editText.getText().toString();
